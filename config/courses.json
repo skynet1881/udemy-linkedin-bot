@@ -2,15 +2,15 @@
   {
       "course_id": "cpp_course",
       "course_label": "Cpp ile Programlama Egitimi",
-      "udemy_promo_url": "https://www.udemy.com/instructor/course/3944038/manage/promotions/",
-      "max_coupons_per_month": 3,
-      "linkedin_message": "Merhaba! C++ Dersi ile kariyerinizi bir üst seviyeye taşıyın! C++ dersimize hoş geldiniz! Eğer yazılım dünyasına adım atmaya karar verdiyseniz veya mevcut programlama becerilerinizi geliştirmek istiyorsanız, doğru yerdesiniz. C++, güçlü ve etkili bir programlama dili olup, oyun geliştirme, gömülü sistemler, yazılım geliştirme ve daha pek çok alanda yaygın olarak kullanılmaktadır \n {coupon_links}"
+      "udemy_promotions_url": "https://www.udemy.com/instructor/course/3944038/manage/promotions/",
+      "monthly_coupon_limit": 3,
+      "linkedin_message_template": "Merhaba! C++ Dersi ile kariyerinizi bir üst seviyeye taşıyın! C++ dersimize hoş geldiniz! Eğer yazılım dünyasına adım atmaya karar verdiyseniz veya mevcut programlama becerilerinizi geliştirmek istiyorsanız, doğru yerdesiniz. C++, güçlü ve etkili bir programlama dili olup, oyun geliştirme, gömülü sistemler, yazılım geliştirme ve daha pek çok alanda yaygın olarak kullanılmaktadır \n {coupon_links}"
   },
   {
       "course_id": "c_course",
       "course_label": "C ile Programlama Egitimi",
-      "udemy_promo_url": "https://www.udemy.com/instructor/course/4277764/manage/promotions/",
-      "max_coupons_per_month": 3,
-      "linkedin_message": "Merhaba! C programlama dersi ile kodlamaya adım atın. Temel programlama prensiplerini öğrenin ve yazılım dünyasına kapılarınızı açın. Değişkenler, döngüler ve fonksiyonlarla tanışarak gerçek dünya uygulamaları oluşturun. C dilinin gücünü keşfederek kendi projelerinizi hayata geçirin. Profesyonel bir yazılımcı olma yolculuğunda sizi destekliyoruz. Başlayın ve kodlamadaki becerilerinizi geliştirin!\n\n {coupon_links}"
+      "udemy_promotions_url": "https://www.udemy.com/instructor/course/4277764/manage/promotions/",
+      "monthly_coupon_limit": 3,
+      "linkedin_message_template": "Merhaba! C programlama dersi ile kodlamaya adım atın. Temel programlama prensiplerini öğrenin ve yazılım dünyasına kapılarınızı açın. Değişkenler, döngüler ve fonksiyonlarla tanışarak gerçek dünya uygulamaları oluşturun. C dilinin gücünü keşfederek kendi projelerinizi hayata geçirin. Profesyonel bir yazılımcı olma yolculuğunda sizi destekliyoruz. Başlayın ve kodlamadaki becerilerinizi geliştirin!\n\n {coupon_links}"
   }
 ]
